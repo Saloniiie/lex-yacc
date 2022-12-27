@@ -1,0 +1,8 @@
+#include <stdio.h>
+/*ceasy lexical analyser*/
+void main()
+{
+   int sum = 0;
+   sum += 23 + .88 * 34.E-4 / 65.7 ;
+   cout<<a_1;
+} //main

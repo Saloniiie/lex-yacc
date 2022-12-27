@@ -1,0 +1,8 @@
+1. #include <stdio.h>
+2. /*ceasy lexical analyser*/
+3. void main()
+4. {
+5.    int sum = 0.00;
+6.    sum += 23.00 + .88.00 * 34.E-4 / 65.7 ;
+7.    cout<<b_1;
+8. } //main

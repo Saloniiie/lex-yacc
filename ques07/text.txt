@@ -1,0 +1,3 @@
+Write a Lex program that finds the longest word
+( defined as a contiguous string of upper and lower case letters )
+in the input.
